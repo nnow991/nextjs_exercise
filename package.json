@@ -1,0 +1,16 @@
+{
+  "name": "woo-next",
+  "version": "1.0.0",
+  "description": "tets-shop",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "Natalia",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
