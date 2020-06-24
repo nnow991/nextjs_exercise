@@ -1,5 +1,5 @@
 const wooConfig={
-    siteURL:'',
+    siteURL:'https://jsonplaceholder.typicode.com/users',
     consumerKey:'',
     consumerSecret:''
 };
