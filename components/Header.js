@@ -2,7 +2,7 @@ import Nav from '../components/Nav'
 
 const Header =(props)=>{
     return(
-    <div>Hwllo
+    <div>
         <Nav></Nav>
    </div>
       

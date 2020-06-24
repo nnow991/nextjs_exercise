@@ -1,7 +1,7 @@
 {
   "name": "woo-next",
   "version": "1.0.0",
-  "description": "tets-shop",
+  "description": "test-shop",
   "main": "index.js",
   "scripts": {
     "dev": "next"
@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "next": "^9.4.4",
+    "nodemon": "^2.0.4",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "woocommerce-api": "^1.5.0"
   }
 }
